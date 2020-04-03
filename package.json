@@ -30,7 +30,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/package": "^3.1.43",
-		"papaparse": "^5.1.1"
+		"papaparse": "^5.2.0"
 	},
 	"devDependencies": {
 		"typescript": "^3.8.3"
