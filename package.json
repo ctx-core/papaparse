@@ -2,6 +2,7 @@
 	"name": "@ctx-core/papaparse",
 	"version": "4.1.40",
 	"description": "ctx-core papaparse",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
