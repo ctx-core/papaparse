@@ -2,9 +2,9 @@
 	"name": "@ctx-core/papaparse",
 	"version": "4.1.47",
 	"description": "ctx-core papaparse",
-	"main": "lib.js",
-	"module": "lib.js",
-	"types": "lib.ts",
+	"main": "index.js",
+	"module": "index.js",
+	"types": "index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
