@@ -33,7 +33,7 @@
 		"papaparse": "^5.2.0"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.7"
+		"typescript": "^4.0.2"
 	},
 	"gitHead": "65ac96b6f012a8eb0e1bedc7675ea2ea10567d1b"
 }
