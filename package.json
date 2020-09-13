@@ -2,6 +2,20 @@
 	"name": "@ctx-core/papaparse",
 	"version": "4.1.79",
 	"description": "ctx-core papaparse",
+	"keywords": [
+		"ctx-core",
+		"papaparse"
+	],
+	"homepage": "https://github.com/ctx-core/papaparse#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/papaparse/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/papaparse/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,32 +23,18 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/papaparse/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"papaparse"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/papaparse/issues"
-	},
-	"homepage": "https://github.com/ctx-core/papaparse#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/package": "^3.1.87",
+		"@ctx-core/package": "workspace:*",
 		"papaparse": "^5.3.0"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "5945da7343fd550bdac7b48f72b5a53460aa1617"
 }
