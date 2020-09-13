@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/papaparse",
-	"version": "4.1.78",
+	"version": "4.1.79",
 	"description": "ctx-core papaparse",
 	"main": "./index.js",
 	"module": "./index.js",
