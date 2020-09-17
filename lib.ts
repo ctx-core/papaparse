@@ -1,4 +1,4 @@
-import { _version__package } from '@ctx-core/package'
+import { _package_version } from '@ctx-core/package'
 export function _version__papaparse() {
-	return _version__package('papaparse')
+	return _package_version('papaparse')
 }
