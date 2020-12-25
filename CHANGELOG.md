@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 5.0.41
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+  - @ctx-core/package@5.0.41
+
 ## 5.0.40
 
 ### Patch Changes
