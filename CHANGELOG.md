@@ -1,5 +1,11 @@
 # @ctx-core/papaparse
 
+## 5.1.0
+
+### Minor Changes
+
+- \_papaparse_version as \_version\_\_papaparse
+
 ## 5.0.41
 
 ### Patch Changes
