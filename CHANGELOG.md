@@ -1,5 +1,16 @@
 # @ctx-core/papaparse
 
+## 6.0.0
+
+### Major Changes
+
+- src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/package@6.0.0
+
 ## 5.1.15
 
 ### Patch Changes
