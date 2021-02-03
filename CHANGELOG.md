@@ -1,5 +1,11 @@
 # @ctx-core/papaparse
 
+## 6.0.6
+
+### Patch Changes
+
+- @ctx-core/package@6.0.6
+
 ## 6.0.5
 
 ### Patch Changes
