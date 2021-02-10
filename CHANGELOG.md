@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 6.0.11
+
+### Patch Changes
+
+- typescript: ^4.1.4 -> ^4.1.5
+- Updated dependencies [undefined]
+  - @ctx-core/package@6.0.11
+
 ## 6.0.10
 
 ### Patch Changes
