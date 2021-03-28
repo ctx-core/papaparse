@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 6.0.28
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/package@6.1.14
+
 ## 6.0.27
 
 ### Patch Changes
