@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 6.0.29
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/package@6.1.15
+
 ## 6.0.28
 
 ### Patch Changes
