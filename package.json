@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/package": "workspace:^6.1.18",
+		"@ctx-core/package": "workspace:^6.1.19",
 		"papaparse": "^5.3.0"
 	},
 	"devDependencies": {
