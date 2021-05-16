@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 6.1.1
+
+### Patch Changes
+
+- fix: target: 2018: nodejs compatability
+- Updated dependencies [undefined]
+  - @ctx-core/package@6.2.1
+
 ## 6.1.0
 
 ### Minor Changes
