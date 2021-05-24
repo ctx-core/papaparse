@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 6.2.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/package@6.3.1
+
 ## 6.2.0
 
 ### Minor Changes
