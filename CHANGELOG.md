@@ -1,5 +1,16 @@
 # @ctx-core/papaparse
 
+## 6.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/package@6.3.0
+
 ## 6.1.3
 
 ### Patch Changes
