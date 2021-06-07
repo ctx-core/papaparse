@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 7.0.2
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/package@7.0.2
+
 ## 7.0.1
 
 ### Patch Changes
