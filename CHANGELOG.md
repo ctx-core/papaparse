@@ -1,5 +1,16 @@
 # @ctx-core/papaparse
 
+## 8.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/package@8.0.0
+
 ## 7.0.2
 
 ### Patch Changes
