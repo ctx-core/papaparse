@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/papaparse",
-	"version": "8.0.0",
+	"version": "8.0.1",
 	"description": "ctx-core papaparse",
 	"keywords": [
 		"ctx-core",
@@ -27,11 +27,11 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/package": "workspace:^8.0.0",
+		"@ctx-core/package": "workspace:^8.0.1",
 		"papaparse": "^5.3.1"
 	},
 	"devDependencies": {
-		"typescript": "^4.3.2"
+		"typescript": "^4.3.3"
 	},
 	"publishConfig": {
 		"access": "public",
