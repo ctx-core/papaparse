@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 8.0.5
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/package@8.0.6
+
 ## 8.0.4
 
 ### Patch Changes
