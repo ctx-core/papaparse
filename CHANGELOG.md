@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 8.0.6
+
+### Patch Changes
+
+- "prepublishOnly": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/package@8.0.7
+
 ## 8.0.5
 
 ### Patch Changes
