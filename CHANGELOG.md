@@ -1,5 +1,11 @@
 # @ctx-core/papaparse
 
+## 8.0.11
+
+### Patch Changes
+
+- update dependencies
+
 ## 8.0.10
 
 ### Patch Changes
