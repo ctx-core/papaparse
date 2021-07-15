@@ -1,5 +1,5 @@
 import { package_version_ } from '@ctx-core/package'
-export function papaparse_version_():string {
+export async function papaparse_version_():Promise<string> {
 	return package_version_('papaparse')
 }
 export {

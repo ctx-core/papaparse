@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 9.0.4
+
+### Patch Changes
+
+- fix: import.meta.url instead of \_\_dirname
+- Updated dependencies [undefined]
+  - @ctx-core/package@9.0.3
+
 ## 9.0.3
 
 ### Patch Changes
