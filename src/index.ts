@@ -1,2 +1,2 @@
-export * from './papaparse_version_'
-export * from './PAPAPARSE_URL'
+export * from './papaparse_version_.js'
+export * from './PAPAPARSE_URL.js'
