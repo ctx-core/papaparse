@@ -1,5 +1,16 @@
 # @ctx-core/papaparse
 
+## 9.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/package@9.0.0
+
 ## 8.0.12
 
 ### Patch Changes
