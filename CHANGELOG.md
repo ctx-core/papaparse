@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 9.0.6
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/package@9.0.6
+
 ## 9.0.5
 
 ### Patch Changes
