@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 9.0.5
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/package@9.0.4
+
 ## 9.0.4
 
 ### Patch Changes
