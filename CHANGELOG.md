@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 9.0.7
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+- Updated dependencies [undefined]
+  - @ctx-core/package@9.0.7
+
 ## 9.0.6
 
 ### Patch Changes
