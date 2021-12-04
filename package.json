@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/papaparse",
-	"version": "9.0.22",
+	"version": "9.0.23",
 	"description": "ctx-core papaparse",
 	"keywords": [
 		"ctx-core",
@@ -35,12 +35,12 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/package": "workspace:^9.1.5",
+		"@ctx-core/package": "workspace:^9.1.6",
 		"papaparse": "^5.3.1"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.52",
-		"@swc/core": "^1.2.116",
+		"@swc/core": "^1.2.117",
 		"typescript": "next"
 	},
 	"publishConfig": {
