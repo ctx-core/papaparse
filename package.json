@@ -32,7 +32,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/package": "workspace:^9.1.11",
+		"@ctx-core/package": "workspace:^9.1.12",
 		"papaparse": "^5.3.1"
 	},
 	"devDependencies": {
