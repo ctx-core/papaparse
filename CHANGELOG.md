@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 9.0.31
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/package@9.1.16
+
 ## 9.0.30
 
 ### Patch Changes
