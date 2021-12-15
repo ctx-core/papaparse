@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 9.0.28
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/package@9.1.13
+
 ## 9.0.27
 
 ### Patch Changes
