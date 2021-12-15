@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 9.0.30
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/package@9.1.15
+
 ## 9.0.29
 
 ### Patch Changes
