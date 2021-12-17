@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 9.0.33
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/package@9.1.18
+
 ## 9.0.32
 
 ### Patch Changes
