@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 9.0.35
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+- Updated dependencies
+  - @ctx-core/package@9.1.20
+
 ## 9.0.34
 
 ### Patch Changes
