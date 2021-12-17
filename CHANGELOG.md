@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 9.0.34
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/package@9.1.19
+
 ## 9.0.33
 
 ### Patch Changes
