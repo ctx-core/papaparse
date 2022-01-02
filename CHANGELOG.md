@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 9.0.36
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/package@9.1.21
+
 ## 9.0.35
 
 ### Patch Changes
