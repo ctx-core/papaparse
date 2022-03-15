@@ -36,7 +36,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/package": "^9.1.27",
-		"papaparse": "^5.3.1"
+		"papaparse": "^5.3.2"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
