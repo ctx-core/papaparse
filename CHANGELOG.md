@@ -1,5 +1,13 @@
 # @ctx-core/papaparse
 
+## 9.0.60
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+- Updated dependencies
+  - @ctx-core/package@9.1.58
+
 ## 9.0.59
 
 ### Patch Changes
