@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/papaparse",
-	"version": "9.0.66",
+	"version": "9.0.67",
 	"description": "ctx-core papaparse",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/package": "^9.1.63",
+		"@ctx-core/package": "^9.1.64",
 		"papaparse": "^5.3.2"
 	},
 	"devDependencies": {
