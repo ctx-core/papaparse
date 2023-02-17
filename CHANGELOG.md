@@ -1,5 +1,11 @@
 # @ctx-core/papaparse
 
+## 9.1.1
+
+### Patch Changes
+
+- @ctx-core/env: workspace:^17.1.0 -> 17.2.0
+
 ## 9.1.0
 
 ### Minor Changes
