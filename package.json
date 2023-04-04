@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/papaparse",
-	"version": "9.1.77",
+	"version": "9.1.78",
 	"description": "ctx-core papaparse",
 	"keywords": [
 		"ctx-core",
@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/env": "17.2.56",
-		"@ctx-core/package": "^9.2.35",
+		"@ctx-core/package": "^9.2.36",
 		"papaparse": "^5.4.1"
 	},
 	"devDependencies": {
