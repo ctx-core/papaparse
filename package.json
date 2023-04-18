@@ -33,8 +33,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/env": "17.2.63",
-		"@ctx-core/package": "^9.2.42",
+		"@ctx-core/env": "^17.2.75",
+		"@ctx-core/package": "^9.2.55",
 		"papaparse": "^5.4.1"
 	},
 	"devDependencies": {
