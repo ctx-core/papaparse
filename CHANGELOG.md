@@ -1,5 +1,11 @@
 # @ctx-core/papaparse
 
+## 9.1.181
+
+### Patch Changes
+
+- @ctx-core/package: ^9.2.104 -> ^9.2.105
+
 ## 9.1.180
 
 ### Patch Changes
