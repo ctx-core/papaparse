@@ -1,5 +1,14 @@
 # @ctx-core/papaparse
 
+## 9.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/env@17.4.2
+  - @ctx-core/package@9.3.2
+
 ## 9.2.1
 
 ### Patch Changes
