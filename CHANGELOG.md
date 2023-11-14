@@ -1,5 +1,14 @@
 # @ctx-core/papaparse
 
+## 9.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/env@17.4.3
+  - @ctx-core/package@9.3.3
+
 ## 9.2.2
 
 ### Patch Changes
