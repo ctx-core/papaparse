@@ -41,7 +41,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/package": "^9.3.117",
-		"ctx-core": "^5.27.0",
+		"ctx-core": "^5.27.1",
 		"papaparse": "^5.4.1"
 	},
 	"devDependencies": {
