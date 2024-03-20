@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/papaparse",
-	"version": "9.2.174",
+	"version": "9.2.175",
 	"description": "ctx-core papaparse",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/papaparse.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-papaparse@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
@@ -40,8 +44,8 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"@ctx-core/package": "^9.3.173",
-		"ctx-core": "^6.6.0",
+		"@ctx-core/package": "^9.3.174",
+		"ctx-core": "^6.6.1",
 		"papaparse": "^5.4.1"
 	},
 	"devDependencies": {
