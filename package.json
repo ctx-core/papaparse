@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/papaparse",
-	"version": "9.2.192",
+	"version": "9.2.193",
 	"description": "ctx-core papaparse",
 	"keywords": [
 		"ctx-core",
@@ -44,8 +44,8 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"@ctx-core/package": "^9.3.191",
-		"ctx-core": "^7.1.5",
+		"@ctx-core/package": "^9.3.192",
+		"ctx-core": "^7.2.0",
 		"papaparse": "^5.4.1"
 	},
 	"devDependencies": {
