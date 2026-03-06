@@ -1,5 +1,14 @@
 # @ctx-core/papaparse
 
+## 9.2.229
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+  - @ctx-core/package@9.3.228
+
 ## 9.2.228
 
 ### Patch Changes
